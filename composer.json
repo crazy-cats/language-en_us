@@ -1,0 +1,16 @@
+{
+    "name": "crazycat/language-en_us",
+    "description": "CrazyCat Language Package - English",
+    "type": "crazycat-language",
+    "license": [
+        "proprietary"
+    ],
+    "require": {
+        "crazycat/framework": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}
