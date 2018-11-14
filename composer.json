@@ -1,6 +1,7 @@
 {
     "name": "crazycat/language-en_us",
     "description": "CrazyCat Language Package - English",
+    "version": "0.0.1",
     "type": "crazycat-language",
     "license": [
         "proprietary"
