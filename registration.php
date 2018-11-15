@@ -9,8 +9,8 @@ use CrazyCat\Framework\App\Setup\Component;
 
 /**
  * @category CrazyCat
- * @package CrazyCat\Cms
+ * @package CrazyCat\Language\EnUs
  * @author Bruce Z <152416319@qq.com>
  * @link http://crazy-cat.co
  */
-Component::getInstance()->register( 'crazycat_en_us', Component::TYPE_LANG, __DIR__ . DS . 'src' );
+Component::getInstance()->register( 'crazycat_en_us', Component::TYPE_LANG, __DIR__ );

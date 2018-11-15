@@ -17,13 +17,8 @@
         "crazycat/framework": "~1.0"
     },
     "autoload": {
-        "psr-4": {
-            "": "src"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
-        }
+        "files": [
+            "registration.php"
+        ]
     }
 }

@@ -7,7 +7,7 @@
 
 /**
  * @category CrazyCat
- * @package CrazyCat\Cms
+ * @package CrazyCat\Language\EnUs
  * @author Bruce Z <152416319@qq.com>
  * @link http://crazy-cat.co
  */
