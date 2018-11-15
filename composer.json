@@ -1,13 +1,20 @@
 {
     "name": "crazycat/language-en_us",
     "description": "CrazyCat Language Package - English",
-    "version": "0.0.1",
     "type": "crazycat-language",
     "license": [
         "proprietary"
     ],
+    "authors": [
+        {
+            "name": "Bruce Z",
+            "email": "zengliwei@163.com",
+            "homepage": "http://crazy-cat.co",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "crazycat/framework": "dev-master"
+        "crazycat/framework": "~1.0"
     },
     "autoload": {
         "psr-4": {
