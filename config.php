@@ -12,5 +12,6 @@
  * @link http://crazy-cat.co
  */
 return [
-    'code' => 'en_US'
+    'code' => 'en_US',
+    'name' => 'English'
 ];
