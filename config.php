@@ -7,9 +7,9 @@
 
 /**
  * @category CrazyCat
- * @package CrazyCat\Language\EnUs
- * @author Liwei Zeng <zengliwei@163.com>
- * @link https://crazy-cat.cn
+ * @package  CrazyCat\Language\EnUs
+ * @author   Liwei Zeng <zengliwei@163.com>
+ * @link     https://crazy-cat.cn
  */
 return [
     'code' => 'en_US',
